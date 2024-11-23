@@ -597,10 +597,10 @@ html {
   }
 
   .header-card {
-    display: flex; /* Flexbox kullanımı */
+    display: flex;
     flex-direction: column;
-    justify-content: center; /* Dikey ortalama */
-    align-items: center; /* Yatay ortalama */
+    justify-content: center;
+    align-items: center;
     height: 100vh;
   }
 
@@ -608,7 +608,7 @@ html {
     width: 85%;
     height: 250px;
     border: 1px solid #ffffff30;
-    display: flex; /* Kart içinde ortalama */
+    display: flex;
     justify-content: center;
     align-items: center;
   }
