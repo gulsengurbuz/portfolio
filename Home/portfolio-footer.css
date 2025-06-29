@@ -12,3 +12,15 @@
   margin: 0;
   line-height: 1.6;
 }
+
+@media (max-width: 768px) {
+  .footer {
+    margin-top: 10rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .footer {
+    margin-top: 15rem;
+  }
+}
