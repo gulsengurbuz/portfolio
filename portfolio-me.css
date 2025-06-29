@@ -32,8 +32,8 @@
   background-position: start;
   overflow: hidden;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: flex-start;
+  align-items: flex-start;
   position: relative;
 }
 .circle.center img {
